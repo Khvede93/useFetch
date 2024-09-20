@@ -1,1 +1,1 @@
-export { useFetch } from './useFetch';
+export { UseCustomFetch } from './UseCustomFetch';
